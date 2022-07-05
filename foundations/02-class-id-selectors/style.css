@@ -1,0 +1,22 @@
+* {
+
+    margin: 10px;
+}
+.number1,
+.number5,
+.number3 {
+    font-family: "DejaVu Sans",sans-serif,Verdana;
+    background-color: rgb(238, 148, 167);
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+#number4 {
+    background-color: rgb(0, 255, 0);
+    font-weight: bold;
+    font-size: 24px;
+} 
+.number3 {
+    font-size: 24px;
+} 
